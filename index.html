@@ -171,7 +171,7 @@ fetch("heroes.csv")
       const rows = text.trim().split("\n").slice(1);
 
       rows.forEach(row => {
-          const cols = row.split(",");
+          const cols = row.split(";");
           if (cols.length < 5) return;
 
           const [key, name, img, counter, counterImg] = cols;
@@ -199,6 +199,7 @@ fetch("heroes.csv")
 </script>
 </body>
 </html>
+
 
 
 
