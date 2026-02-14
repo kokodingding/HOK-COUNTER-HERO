@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Honor of Kings – Hero Counter</title>
+
+<style>
+:root {
+    --bg-main: #0b1020;
+    --bg-panel: #151c3b;
+    --accent: #f5c77a;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, sans-serif;
+    background: radial-gradient(circle at top, #1b2455, var(--bg-main));
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 95%;
+    max-width: 1000px;
+    text-align: center;
+}
+
+/* ===== LOGO ===== */
+.game-logo {
+    margin-bottom: 18px;
+}
+
+.game-logo img {
+    width: 240px;
+    max-width: 85%;
+    filter: drop-shadow(0 0 18px rgba(245,199,122,0.7));
+}
+
+/* ===== TITLE ===== */
+.game-title {
+    font-size: 36px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    color: var(--accent);
+    margin-bottom: 25px;
+}
+
+/* ===== SEARCH ===== */
+.search-bar {
+    width: 75%;
+    max-width: 600px;
+    padding: 20px;
+    font-size: 24px;
+    border-radius: 18px;
+    border: none;
+    outline: none;
+    text-align: center;
+    background: #0f1533;
+    color: white;
+}
+
+.search-bar::placeholder {
+    color: #b8b8d4;
+}
+
+/* ===== RESULT ===== */
+.result {
+    margin-top: 40px;
+}
+
+/* HERO MAIN */
+.hero-main img {
+    width: 190px;
+    height: 190px;
+    border-radius: 22px;
+    border: 3px solid var(--accent);
+    object-fit: cover;
+}
+
+.hero-name {
+    margin-top: 14px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* COUNTER */
+.counter-title {
+    margin: 35px 0 15px;
+    font-size: 22px;
+    color: var(--accent);
+}
+
+.counter-list {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.counter-card {
+    background: var(--bg-panel);
+    padding: 16px;
+    border-radius: 20px;
+    width: 160px;
+    transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.counter-card:hover {
+    transform: scale(1.06);
+    box-shadow: 0 0 15px rgba(245,199,122,0.4);
+}
+
+.counter-card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 16px;
+    border: 2px solid white;
+    object-fit: cover;
+}
+
+.counter-name {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+/* NOT FOUND */
+.not-found {
+    margin-top: 30px;
+    font-size: 20px;
+    color: #ff9b9b;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+    <!-- LOGO HOK -->
+    <div class="game-logo">
+        <img src="https://liquipedia.net/commons/images/thumb/b/b4/Honor_of_Kings_2022_allmode.png/600px-Honor_of_Kings_2022_allmode.png" alt="Honor of Kings Logo">
+    </div>
+
+    <div class="game-title">HERO COUNTER</div>
+
+    <input
+        type="text"
+        class="search-bar"
+        placeholder="Cari Hero Honor of Kings..."
+        oninput="searchHero(this.value)"
+    >
+
+    <div id="result" class="result"></div>
+</div>
+
+<script>
+/* =========================
+   DATA HERO HONOR OF KINGS
+   ========================= */
+
+const heroes = {
+    "agudo": {
+        name: "Agudo",
+        image: "https://via.placeholder.com/300x300?text=Agudo",
+        counters: [
+            { name: "Han Xin", image: "https://via.placeholder.com/300x300?text=Han+Xin" },
+            { name: "Hou Yi", image: "https://via.placeholder.com/300x300?text=Hou+Yi" }
+        ]
+    },
+
+    "arthur": {
+        name: "Arthur",
+        image: "https://via.placeholder.com/300x300?text=Arthur",
+        counters: [
+            { name: "Mulan", image: "https://via.placeholder.com/300x300?text=Mulan" },
+            { name: "Li Xin", image: "https://via.placeholder.com/300x300?text=Li+Xin" },
+            { name: "Kaizer", image: "https://via.placeholder.com/300x300?text=Kaizer" }
+        ]
+    }
+};
+
+/* ========================= */
+
+function searchHero(keyword) {
+    const result = document.getElementById("result");
+    const key = keyword.toLowerCase().trim();
+
+    if (!key) {
+        result.innerHTML = "";
+        return;
+    }
+
+    const hero = heroes[key];
+    if (!hero) {
+        result.innerHTML = `<div class="not-found">Hero tidak ditemukan</div>`;
+        return;
+    }
+
+    result.innerHTML = `
+        <div class="hero-main">
+            <img src="${hero.image}">
+            <div class="hero-name">${hero.name}</div>
+        </div>
+
+        <div class="counter-title">Counter Terbaik</div>
+
+        <div class="counter-list">
+            ${hero.counters.map(c => `
+                <div class="counter-card">
+                    <img src="${c.image}">
+                    <div class="counter-name">${c.name}</div>
+                </div>
+            `).join("")}
+        </div>
+    `;
+}
+</script>
+
+</body>
+</html>
