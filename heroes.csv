@@ -1,104 +1,109 @@
-﻿hero_key;hero_name;hero_image;counter_name;counter_image
-agudo;Agudo;img/agudo.png;Han Xin;img/hanxin.png
-arthur;Arthur;img/agudo.png;Han Xin;img/hanxin.png
-ata;Ata;img/agudo.png;Han Xin;img/hanxin.png
-dharma;Dharma;img/agudo.png;Han Xin;img/hanxin.png
-dun;Dun;img/agudo.png;Han Xin;img/hanxin.png
-kaizer;Kaizer;img/agudo.png;Han Xin;img/hanxin.png
-lian po;Lian Po;img/agudo.png;Han Xin;img/hanxin.png
-liu bang;Liu Bang;img/agudo.png;Han Xin;img/hanxin.png
-liu shan;Liu Shan;img/agudo.png;Han Xin;img/hanxin.png
-lu bu;Lu Bu;img/agudo.png;Han Xin;img/hanxin.png
-sun ce;Sun Ce;img/agudo.png;Han Xin;img/hanxin.png
-wuyan;Wuyan;img/agudo.png;Han Xin;img/hanxin.png
-xiang yu;Xiang Yu;img/agudo.png;Han Xin;img/hanxin.png
-menki;Menki;img/agudo.png;Han Xin;img/hanxin.png
-zhang fei;Zhang Fei;img/agudo.png;Han Xin;img/hanxin.png
-zhuangzi;Zhuangzi;img/agudo.png;Han Xin;img/hanxin.png
-athena;Athena;img/agudo.png;Han Xin;img/hanxin.png
-biron;Biron;img/agudo.png;Han Xin;img/hanxin.png
-butterfly;Butterfly;img/agudo.png;Han Xin;img/hanxin.png
-cao cao;Cao Cao;img/agudo.png;Han Xin;img/hanxin.png
-charlotte;Charlotte;img/agudo.png;Han Xin;img/hanxin.png
-dian wei;Dian Wei;img/agudo.png;Han Xin;img/hanxin.png
-fuzi;Fuzi;img/agudo.png;Han Xin;img/hanxin.png
-guan yu;Guan Yu;img/agudo.png;Han Xin;img/hanxin.png
-li xin;Li Xin;img/agudo.png;Han Xin;img/hanxin.png
-liu bei;Liu Bei;img/agudo.png;Han Xin;img/hanxin.png
-luna;Luna;img/agudo.png;Han Xin;img/hanxin.png
-mayene;Mayene;img/agudo.png;Han Xin;img/hanxin.png
-mozi;Mozi;img/agudo.png;Han Xin;img/hanxin.png
-musashi;Musashi;img/agudo.png;Han Xin;img/hanxin.png
-nezha;Nezha;img/agudo.png;Han Xin;img/hanxin.png
-yao;Yao;img/agudo.png;Han Xin;img/hanxin.png
-yang jian;Yang Jian;img/agudo.png;Han Xin;img/hanxin.png
-han xin;Han Xin;img/agudo.png;Han Xin;img/hanxin.png
-jing;Jing;img/agudo.png;Han Xin;img/hanxin.png
-lam;Lam;img/agudo.png;Han Xin;img/hanxin.png
-li bai;Li Bai;img/agudo.png;Han Xin;img/hanxin.png
-mulan;Mulan;img/agudo.png;Han Xin;img/hanxin.png
-nakoruru;Nakoruru;img/agudo.png;Han Xin;img/hanxin.png
-prince of lanling;Prince of Lanling;img/agudo.png;Han Xin;img/hanxin.png
-sima yi;Sima Yi;img/agudo.png;Han Xin;img/hanxin.png
-ukyo tachibana;Ukyo Tachibana;img/agudo.png;Han Xin;img/hanxin.png
-wukong;Wukong;img/agudo.png;Han Xin;img/hanxin.png
-ying;Ying;img/agudo.png;Han Xin;img/hanxin.png
-zilong;Zilong;img/agudo.png;Han Xin;img/hanxin.png
-angela;Angela;img/agudo.png;Han Xin;img/hanxin.png
-da qiao;Da Qiao;img/agudo.png;Han Xin;img/hanxin.png
-daji;Daji;img/agudo.png;Han Xin;img/hanxin.png
-diaochan;Diaochan;img/agudo.png;Han Xin;img/hanxin.png
-dr bian;Dr Bian;img/agudo.png;Han Xin;img/hanxin.png
-gan & mo;Gan & Mo;img/agudo.png;Han Xin;img/hanxin.png
-gao;Gao;img/agudo.png;Han Xin;img/hanxin.png
-heino;Heino;img/agudo.png;Han Xin;img/hanxin.png
-kongming;Kongming;img/agudo.png;Han Xin;img/hanxin.png
-lady zhen;Lady Zhen;img/agudo.png;Han Xin;img/hanxin.png
-liang;Liang;img/agudo.png;Han Xin;img/hanxin.png
-mai shiranui;Mai Shiranui;img/agudo.png;Han Xin;img/hanxin.png
-mi yue;Mi Yue;img/agudo.png;Han Xin;img/hanxin.png
-milady;Milady;img/agudo.png;Han Xin;img/hanxin.png
-nuwa;Nuwa;img/agudo.png;Han Xin;img/hanxin.png
-princess frost;Princess Frost;img/agudo.png;Han Xin;img/hanxin.png
-shangguan;Shangguan;img/agudo.png;Han Xin;img/hanxin.png
-shi;Shi;img/agudo.png;Han Xin;img/hanxin.png
-xiao qiao;Xiao Qiao;img/agudo.png;Han Xin;img/hanxin.png
-yixing;Yixing;img/agudo.png;Han Xin;img/hanxin.png
-yuhuan;Yuhuan;img/agudo.png;Han Xin;img/hanxin.png
-zhou yu;Zhou Yu;img/agudo.png;Han Xin;img/hanxin.png
-ziya;Ziya;img/agudo.png;Han Xin;img/hanxin.png
-loong;Loong;img/agudo.png;Han Xin;img/hanxin.png
-alessio;Alessio;img/agudo.png;Han Xin;img/hanxin.png
-arli;Arli;img/agudo.png;Han Xin;img/hanxin.png
-consort yu;Consort Yu;img/agudo.png;Han Xin;img/hanxin.png
-di renjie;Di Renjie;img/agudo.png;Han Xin;img/hanxin.png
-erin;Erin;img/agudo.png;Han Xin;img/hanxin.png
-fang;Fang;img/agudo.png;Han Xin;img/hanxin.png
-garo;Garo;img/agudo.png;Han Xin;img/hanxin.png
-hou yi;Hou Yi;img/agudo.png;Han Xin;img/hanxin.png
-huang zhong;Huang Zhong;img/agudo.png;Han Xin;img/hanxin.png
-lady sun;Lady Sun;img/agudo.png;Han Xin;img/hanxin.png
-luban no. 7;Luban No. 7;img/agudo.png;Han Xin;img/hanxin.png
-marco polo;Marco Polo;img/agudo.png;Han Xin;img/hanxin.png
-meng ya;Meng Ya;img/agudo.png;Han Xin;img/hanxin.png
-shouyue;Shouyue;img/agudo.png;Han Xin;img/hanxin.png
-luara;Luara;img/agudo.png;Han Xin;img/hanxin.png
-cai yan;Cai Yan;img/agudo.png;Han Xin;img/hanxin.png
-dolia;Dolia;img/agudo.png;Han Xin;img/hanxin.png
-donghuang;Donghuang;img/agudo.png;Han Xin;img/hanxin.png
-dyadia;Dyadia;img/agudo.png;Han Xin;img/hanxin.png
-guiguzi;Guiguzi;img/agudo.png;Han Xin;img/hanxin.png
-kui;Kui;img/agudo.png;Han Xin;img/hanxin.png
-ming;Ming;img/agudo.png;Han Xin;img/hanxin.png
-sun bin;Sun Bin;img/agudo.png;Han Xin;img/hanxin.png
-yaria;Yaria;img/agudo.png;Han Xin;img/hanxin.png
-pei;Pei;img/agudo.png;Han Xin;img/hanxin.png
-allain;Allain;img/agudo.png;Han Xin;img/hanxin.png
-augran;Augran;img/agudo.png;Han Xin;img/hanxin.png
-cirrus;Cirrus;img/agudo.png;Han Xin;img/hanxin.png
-xuance;Xuance;img/agudo.png;Han Xin;img/hanxin.png
-arke;Arke;img/agudo.png;Han Xin;img/hanxin.png
-sakeer;Sakeer;img/agudo.png;Han Xin;img/hanxin.png
-feyd;Feyd;img/agudo.png;Han Xin;img/hanxin.png
-chano;Chano;img/agudo.png;Han Xin;img/hanxin.png
-bai qi;Bai Qi;img/agudo.png;Han Xin;img/hanxin.png
+hero_key;hero_name;hero_image;counter_name;counter_image
+agudo;Agudo;https://hokbuild.com/wp-content/uploads/2024/12/agudo.png;Han Xin;https://hokbuild.com/wp-content/uploads/2024/12/han-xin.png
+agudo;Agudo;https://hokbuild.com/wp-content/uploads/2024/12/agudo.png;Hou Yi;https://hokbuild.com/wp-content/uploads/2024/12/hou-yi.png
+alessio;Alessio;https://hokbuild.com/wp-content/uploads/2024/12/alessio.png;;
+allain;Allain;https://hokbuild.com/wp-content/uploads/2024/12/allain.png;;
+angela;Angela;https://hokbuild.com/wp-content/uploads/2024/12/angela.png;;
+arke;Arke;https://hokbuild.com/wp-content/uploads/2025/01/arke-honor-of-kings.png;;
+arli;Arli;https://hokbuild.com/wp-content/uploads/2024/12/arli.png;;
+arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;;
+arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;;
+arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;;
+ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;;
+ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;;
+ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;;
+athena;Athena;https://hokbuild.com/wp-content/uploads/2024/12/athena.png;;
+augran;Augran;https://hokbuild.com/wp-content/uploads/2024/12/augran.png;;
+bai;Bai Qi;https://hokbuild.com/wp-content/uploads/2025/05/bai-qi-honor-of-kings.png;;
+biron;Biron;https://hokbuild.com/wp-content/uploads/2024/12/biron.png;;
+butterfly;Butterfly;https://hokbuild.com/wp-content/uploads/2024/12/butterfly.png;;
+cai;Cai Yan;https://hokbuild.com/wp-content/uploads/2024/12/cai-yan.png;;
+cao;Cao Cao or Fatih;https://hokbuild.com/wp-content/uploads/2024/12/cao-cao.png;;
+chano;Chano;https://hokbuild.com/wp-content/uploads/2025/04/chano-honor-of-kings.jpg;;
+charlotte;Charlotte;https://hokbuild.com/wp-content/uploads/2024/12/charlotte.png;;
+cirrus;Cirrus;https://hokbuild.com/wp-content/uploads/2024/12/cirrus.png;;
+consort;Consort Yu;https://hokbuild.com/wp-content/uploads/2024/12/consort-yu.png;;
+daqiao;Da Qiao;https://hokbuild.com/wp-content/uploads/2024/12/da-qiao.png;;
+daji;Daji;https://hokbuild.com/wp-content/uploads/2024/12/daji.png;;
+dharma;Dharma;https://hokbuild.com/wp-content/uploads/2024/12/dharma.png;;
+di;Di Renjie;https://hokbuild.com/wp-content/uploads/2024/12/di-renjie.png;;
+dian;Dian Wei;https://hokbuild.com/wp-content/uploads/2024/12/dian-wei.png;;
+diaochan;Diaochan;https://hokbuild.com/wp-content/uploads/2024/12/diaochan.png;;
+dolia;Dolia;https://hokbuild.com/wp-content/uploads/2024/12/dolia.png;;
+donghuang;Donghuang;https://hokbuild.com/wp-content/uploads/2024/12/donghuang.png;;
+drbian;Dr Bian;https://hokbuild.com/wp-content/uploads/2024/12/dr-bian.png;;
+dun;Dun;https://hokbuild.com/wp-content/uploads/2024/12/dun.png;;
+dyadia;Dyadia;https://hokbuild.com/wp-content/uploads/2024/12/dyadia.png;;
+erin;Erin;https://hokbuild.com/wp-content/uploads/2024/12/erin.png;;
+fang;Fang;https://hokbuild.com/wp-content/uploads/2024/12/fang.png;;
+feyd;Feyd;https://hokbuild.com/wp-content/uploads/2025/02/feyd-honor-of-kings.png;;
+fuzi;Fuzi;https://hokbuild.com/wp-content/uploads/2024/12/fuzi.png;;
+ganmo;Gan & Mo;https://hokbuild.com/wp-content/uploads/2024/12/gan-mo.png;;
+gao;Gao;https://hokbuild.com/wp-content/uploads/2024/12/gao.png;;
+garo;Garo;https://hokbuild.com/wp-content/uploads/2024/12/garo.png;;
+guan;Guan Yu;https://hokbuild.com/wp-content/uploads/2024/12/guan-yu.png;;
+guiguzi;Guiguzi;https://hokbuild.com/wp-content/uploads/2024/12/guiguzi.png;;
+hanxin;Han Xin;https://hokbuild.com/wp-content/uploads/2024/12/han-xin.png;;
+heino;Heino;https://hokbuild.com/wp-content/uploads/2024/12/heino.png;;
+hou;Hou Yi;https://hokbuild.com/wp-content/uploads/2024/12/hou-yi.png;;
+huang;Huang Zhong;https://hokbuild.com/wp-content/uploads/2024/12/huang-zhong.png;;
+jing;Jing;https://hokbuild.com/wp-content/uploads/2024/12/jing.png;;
+kaizer;Kaizer;https://hokbuild.com/wp-content/uploads/2024/12/kaizer.png;;
+kongming;Kongming;https://hokbuild.com/wp-content/uploads/2024/12/kongming.png;;
+kui;Kui;https://hokbuild.com/wp-content/uploads/2024/12/kui.png;;
+lady sun;Lady Sun;https://hokbuild.com/wp-content/uploads/2024/12/lady-sun.png;;
+lady zhen;Lady Zhen;https://hokbuild.com/wp-content/uploads/2024/12/lady-zhen.png;;
+lam;Lam;https://hokbuild.com/wp-content/uploads/2024/12/lam.png;;
+li bai;Li Bai;https://hokbuild.com/wp-content/uploads/2024/12/li-bai.png;;
+li xin;Li Xin;https://hokbuild.com/wp-content/uploads/2024/12/li-xin.png;;
+lian;Lian Po;https://hokbuild.com/wp-content/uploads/2024/12/lian-po.png;;
+liang;Liang;https://hokbuild.com/wp-content/uploads/2024/12/liang.png;;
+liu bang;Liu Bang;https://hokbuild.com/wp-content/uploads/2024/12/liu-bang.png;;
+liu bei;Liu Bei;https://hokbuild.com/wp-content/uploads/2024/12/liu-bei.png;;
+liu shan;Liu Shan;https://hokbuild.com/wp-content/uploads/2024/12/liu-shan.png;;
+loong;Loong;https://hokbuild.com/wp-content/uploads/2024/12/loong.png;;
+lu bu;Lu Bu;https://hokbuild.com/wp-content/uploads/2024/12/lu-bu.png;;
+luara;Luara;https://hokbuild.com/wp-content/uploads/2024/12/luara.png;;
+luban;Luban No. 7;https://hokbuild.com/wp-content/uploads/2024/12/luban-no-7.png;;
+luna;Luna;https://hokbuild.com/wp-content/uploads/2024/12/luna.png;;
+mai;Mai Shiranui;https://hokbuild.com/wp-content/uploads/2024/12/mai-shiranui.png;;
+marco;Marco Polo;https://hokbuild.com/wp-content/uploads/2024/12/marco-polo.png;;
+mayene;Mayene;https://hokbuild.com/wp-content/uploads/2024/12/mayene.png;;
+meng;Meng Ya;https://hokbuild.com/wp-content/uploads/2024/12/meng-ya.png;;
+menki;Menki;https://hokbuild.com/wp-content/uploads/2024/12/menki.png;;
+mi yue;Mi Yue;https://hokbuild.com/wp-content/uploads/2024/12/mi-yue.png;;
+milady;Milady;https://hokbuild.com/wp-content/uploads/2024/12/milady.png;;
+ming;Ming;https://hokbuild.com/wp-content/uploads/2024/12/ming.png;;
+mozi;Mozi;https://hokbuild.com/wp-content/uploads/2024/12/mozi.png;;
+mulan;Mulan;https://hokbuild.com/wp-content/uploads/2024/12/mulan.png;;
+musashi;Musashi;https://hokbuild.com/wp-content/uploads/2024/12/musashi.png;;
+nakoruru;Nakoruru;https://hokbuild.com/wp-content/uploads/2024/12/nakoruru.png;;
+nezha;Nezha;https://hokbuild.com/wp-content/uploads/2024/12/nezha.png;;
+nuwa;Nuwa;https://hokbuild.com/wp-content/uploads/2024/12/nuwa.png;;
+pei;Pei;https://hokbuild.com/wp-content/uploads/2024/12/pei.png;;
+lanling;Prince of Lanling;https://hokbuild.com/wp-content/uploads/2024/12/prince-of-lanling.png;;
+frost;Princess Frost;https://hokbuild.com/wp-content/uploads/2024/12/princess-frost.png;;
+sakeer;Sakeer;https://hokbuild.com/wp-content/uploads/2025/02/sakeer-honor-of-kings.png;;
+shangguan;Shangguan;https://hokbuild.com/wp-content/uploads/2024/12/shangguan.png;;
+shi;Shi;https://hokbuild.com/wp-content/uploads/2024/12/shi.png;;
+shouyue;Shouyue;https://hokbuild.com/wp-content/uploads/2024/12/shouyue.png;;
+sima;Sima Yi;https://hokbuild.com/wp-content/uploads/2024/12/sima-yi.png;;
+sun bin;Sun Bin;https://hokbuild.com/wp-content/uploads/2024/12/sun-bin.png;;
+sun ce;Sun Ce;https://hokbuild.com/wp-content/uploads/2024/12/sun-ce.png;;
+ukyo;Ukyo Tachibana;https://hokbuild.com/wp-content/uploads/2024/12/ukyo-tachibana.png;;
+wukong;Wukong;https://hokbuild.com/wp-content/uploads/2024/12/wukong.png;;
+wuyan;Wuyan;https://hokbuild.com/wp-content/uploads/2024/12/wuyan.png;;
+xiang;Xiang Yu;https://hokbuild.com/wp-content/uploads/2024/12/xiang-yu.png;;
+xiao qiao;Xiao Qiao;https://hokbuild.com/wp-content/uploads/2024/12/xiao-qiao.png;;
+xuance;Xuance;https://hokbuild.com/wp-content/uploads/2024/12/xuance.png;;
+yang jian;Yang Jian;https://hokbuild.com/wp-content/uploads/2024/12/yang-jian.png;;
+yao;Yao;https://hokbuild.com/wp-content/uploads/2024/12/yao.png;;
+yaria;Yaria;https://hokbuild.com/wp-content/uploads/2024/12/yaria.png;;
+ying;Ying;https://hokbuild.com/wp-content/uploads/2024/12/ying.png;;
+yixing;Yixing;https://hokbuild.com/wp-content/uploads/2024/12/yixing.png;;
+yuhuan;Yuhuan;https://hokbuild.com/wp-content/uploads/2024/12/yuhuan.png;;
+zhang;Zhang Fei;https://hokbuild.com/wp-content/uploads/2024/12/zhang-fei.png;;
+zhou yu;Zhou Yu;https://hokbuild.com/wp-content/uploads/2024/12/zhou-yu.png;;
+zhuangzi;Zhuangzi;https://hokbuild.com/wp-content/uploads/2024/12/zhuangzi.png;;
+zilong;Zilong;https://hokbuild.com/wp-content/uploads/2024/12/zilong.png;;
+ziya;Ziya;https://hokbuild.com/wp-content/uploads/2024/12/ziya.png;;
