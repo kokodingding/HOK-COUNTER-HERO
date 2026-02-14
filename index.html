@@ -163,29 +163,42 @@ body {
 let heroes = {};
 
 fetch("heroes.csv")
-    .then(res => res.text())
-    .then(csv => {
-        const rows = csv.split("\n").slice(1);
-        rows.forEach(row => {
-            const [key, hName, hImg, cName, cImg] = row.split(",");
+  .then(res => {
+      if (!res.ok) throw new Error("CSV tidak ditemukan");
+      return res.text();
+  })
+  .then(text => {
+      const rows = text.trim().split("\n").slice(1);
 
-            if (!heroes[key]) {
-                heroes[key] = {
-                    name: hName,
-                    image: hImg,
-                    counters: []
-                };
-            }
+      rows.forEach(row => {
+          const cols = row.split(",");
+          if (cols.length < 5) return;
 
-            heroes[key].counters.push({
-                name: cName,
-                image: cImg
-            });
-        });
-    });
+          const [key, name, img, counter, counterImg] = cols;
+
+          if (!heroes[key]) {
+              heroes[key] = {
+                  name: name,
+                  image: img,
+                  counters: []
+              };
+          }
+
+          if (heroes[key].counters.length < 3) {
+              heroes[key].counters.push({
+                  name: counter,
+                  image: counterImg
+              });
+          }
+      });
+  })
+  .catch(err => {
+      console.error(err);
+      alert("Gagal load heroes.csv");
+  });
 </script>
-
 </body>
 </html>
+
 
 
