@@ -160,68 +160,32 @@ body {
 </div>
 
 <script>
-/* =========================
-   DATA HERO HONOR OF KINGS
-   ========================= */
+let heroes = {};
 
-const heroes = {
-    "agudo": {
-        name: "Agudo",
-        image: "https://via.placeholder.com/300x300?text=Agudo",
-        counters: [
-            { name: "Han Xin", image: "https://via.placeholder.com/300x300?text=Han+Xin" },
-            { name: "Hou Yi", image: "https://via.placeholder.com/300x300?text=Hou+Yi" }
-        ]
-    },
+fetch("heroes.csv")
+    .then(res => res.text())
+    .then(csv => {
+        const rows = csv.split("\n").slice(1);
+        rows.forEach(row => {
+            const [key, hName, hImg, cName, cImg] = row.split(",");
 
-    "arthur": {
-        name: "Arthur",
-        image: "https://via.placeholder.com/300x300?text=Arthur",
-        counters: [
-            { name: "Mulan", image: "https://via.placeholder.com/300x300?text=Mulan" },
-            { name: "Li Xin", image: "https://via.placeholder.com/300x300?text=Li+Xin" },
-            { name: "Kaizer", image: "https://via.placeholder.com/300x300?text=Kaizer" }
-        ]
-    }
-};
+            if (!heroes[key]) {
+                heroes[key] = {
+                    name: hName,
+                    image: hImg,
+                    counters: []
+                };
+            }
 
-/* ========================= */
-
-function searchHero(keyword) {
-    const result = document.getElementById("result");
-    const key = keyword.toLowerCase().trim();
-
-    if (!key) {
-        result.innerHTML = "";
-        return;
-    }
-
-    const hero = heroes[key];
-    if (!hero) {
-        result.innerHTML = `<div class="not-found">Hero tidak ditemukan</div>`;
-        return;
-    }
-
-    result.innerHTML = `
-        <div class="hero-main">
-            <img src="${hero.image}">
-            <div class="hero-name">${hero.name}</div>
-        </div>
-
-        <div class="counter-title">Counter Terbaik</div>
-
-        <div class="counter-list">
-            ${hero.counters.map(c => `
-                <div class="counter-card">
-                    <img src="${c.image}">
-                    <div class="counter-name">${c.name}</div>
-                </div>
-            `).join("")}
-        </div>
-    `;
-}
+            heroes[key].counters.push({
+                name: cName,
+                image: cImg
+            });
+        });
+    });
 </script>
 
 </body>
 </html>
+
 
