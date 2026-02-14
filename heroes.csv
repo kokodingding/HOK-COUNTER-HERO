@@ -1,109 +1,307 @@
 hero_key;hero_name;hero_image;counter_name;counter_image
 agudo;Agudo;https://hokbuild.com/wp-content/uploads/2024/12/agudo.png;Han Xin;https://hokbuild.com/wp-content/uploads/2024/12/han-xin.png
 agudo;Agudo;https://hokbuild.com/wp-content/uploads/2024/12/agudo.png;Hou Yi;https://hokbuild.com/wp-content/uploads/2024/12/hou-yi.png
-alessio;Alessio;https://hokbuild.com/wp-content/uploads/2024/12/alessio.png;;
-allain;Allain;https://hokbuild.com/wp-content/uploads/2024/12/allain.png;;
-angela;Angela;https://hokbuild.com/wp-content/uploads/2024/12/angela.png;;
-arke;Arke;https://hokbuild.com/wp-content/uploads/2025/01/arke-honor-of-kings.png;;
-arli;Arli;https://hokbuild.com/wp-content/uploads/2024/12/arli.png;;
-arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;;
-arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;;
-arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;;
-ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;;
-ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;;
-ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;;
-athena;Athena;https://hokbuild.com/wp-content/uploads/2024/12/athena.png;;
-augran;Augran;https://hokbuild.com/wp-content/uploads/2024/12/augran.png;;
-bai;Bai Qi;https://hokbuild.com/wp-content/uploads/2025/05/bai-qi-honor-of-kings.png;;
+alessio;Alessio;https://hokbuild.com/wp-content/uploads/2024/12/alessio.png;Han Xin;https://hokbuild.com/wp-content/uploads/2024/12/han-xin.png
+alessio;Alessio;https://hokbuild.com/wp-content/uploads/2024/12/alessio.png;Mai Shiranui;https://hokbuild.com/wp-content/uploads/2024/12/mai-shiranui.png
+alessio;Alessio;https://hokbuild.com/wp-content/uploads/2024/12/alessio.png;Sima Yi;https://hokbuild.com/wp-content/uploads/2024/12/sima-yi.png
+allain;Allain;https://hokbuild.com/wp-content/uploads/2024/12/allain.png;Kongming;https://hokbuild.com/wp-content/uploads/2024/12/kongming.png
+allain;Allain;https://hokbuild.com/wp-content/uploads/2024/12/allain.png;Milady;https://hokbuild.com/wp-content/uploads/2024/12/milady.png
+allain;Allain;https://hokbuild.com/wp-content/uploads/2024/12/allain.png;Yi xing;https://hokbuild.com/wp-content/uploads/2024/12/yixing.png
+angela;Angela;https://hokbuild.com/wp-content/uploads/2024/12/angela.png;Augran;https://hokbuild.com/wp-content/uploads/2024/12/augran.png
+angela;Angela;https://hokbuild.com/wp-content/uploads/2024/12/angela.png;Diaochan;https://hokbuild.com/wp-content/uploads/2024/12/diaochan.png
+angela;Angela;https://hokbuild.com/wp-content/uploads/2024/12/angela.png;Jing;https://hokbuild.com/wp-content/uploads/2024/12/jing.png
+arke;Arke;https://hokbuild.com/wp-content/uploads/2025/01/arke-honor-of-kings.png;Kaizer;https://hokbuild.com/wp-content/uploads/2024/12/kaizer.png
+arke;Arke;https://hokbuild.com/wp-content/uploads/2025/01/arke-honor-of-kings.png;Menki;https://hokbuild.com/wp-content/uploads/2024/12/menki.png
+arke;Arke;https://hokbuild.com/wp-content/uploads/2025/01/arke-honor-of-kings.png;Wuyan;https://hokbuild.com/wp-content/uploads/2024/12/wuyan.png
+arli;Arli;https://hokbuild.com/wp-content/uploads/2024/12/arli.png;Prince of Lanling;https://hokbuild.com/wp-content/uploads/2024/12/prince-of-lanling.png
+arli;Arli;https://hokbuild.com/wp-content/uploads/2024/12/arli.png;Sima Yi;https://hokbuild.com/wp-content/uploads/2024/12/sima-yi.png
+arli;Arli;https://hokbuild.com/wp-content/uploads/2024/12/arli.png;Zilong;https://hokbuild.com/wp-content/uploads/2024/12/zilong.png
+arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;Kaizer;https://hokbuild.com/wp-content/uploads/2024/12/kaizer.png
+arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;Li Xin;https://hokbuild.com/wp-content/uploads/2024/12/li-xin.png
+arthur;Arthur;https://hokbuild.com/wp-content/uploads/2024/12/arthur.png;Mulan;https://hokbuild.com/wp-content/uploads/2024/12/mulan.png
+ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;Lady Sun;https://hokbuild.com/wp-content/uploads/2024/12/lady-sun.png
+ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;Li Bai;https://hokbuild.com/wp-content/uploads/2024/12/li-bai.png
+ata;Ata;https://hokbuild.com/wp-content/uploads/2024/12/ata.png;Shouyue;https://hokbuild.com/wp-content/uploads/2024/12/shouyue.png
+athena;Athena;https://hokbuild.com/wp-content/uploads/2024/12/athena.png;Da Qiao;https://hokbuild.com/wp-content/uploads/2024/12/da-qiao.png
+athena;Athena;https://hokbuild.com/wp-content/uploads/2024/12/athena.png;Luna;https://hokbuild.com/wp-content/uploads/2024/12/luna.png
+athena;Athena;https://hokbuild.com/wp-content/uploads/2024/12/athena.png;Shi;https://hokbuild.com/wp-content/uploads/2024/12/shi.png
+augran;Augran;https://hokbuild.com/wp-content/uploads/2024/12/augran.png;Luna;https://hokbuild.com/wp-content/uploads/2024/12/luna.png
+augran;Augran;https://hokbuild.com/wp-content/uploads/2024/12/augran.png;Shangguan;https://hokbuild.com/wp-content/uploads/2024/12/shangguan.png
+augran;Augran;https://hokbuild.com/wp-content/uploads/2024/12/augran.png;Zhou Yu;https://hokbuild.com/wp-content/uploads/2024/12/zhou-yu.png
+bai;Bai Qi;https://hokbuild.com/wp-content/uploads/2025/05/bai-qi-honor-of-kings.png;Luna;
+;;;Shangguan;
+;;;Zhou Yu;
 biron;Biron;https://hokbuild.com/wp-content/uploads/2024/12/biron.png;;
+;;;;
+;;;;
 butterfly;Butterfly;https://hokbuild.com/wp-content/uploads/2024/12/butterfly.png;;
+;;;;
+;;;;
 cai;Cai Yan;https://hokbuild.com/wp-content/uploads/2024/12/cai-yan.png;;
+;;;;
+;;;;
 cao;Cao Cao or Fatih;https://hokbuild.com/wp-content/uploads/2024/12/cao-cao.png;;
+;;;;
+;;;;
 chano;Chano;https://hokbuild.com/wp-content/uploads/2025/04/chano-honor-of-kings.jpg;;
+;;;;
+;;;;
 charlotte;Charlotte;https://hokbuild.com/wp-content/uploads/2024/12/charlotte.png;;
+;;;;
+;;;;
 cirrus;Cirrus;https://hokbuild.com/wp-content/uploads/2024/12/cirrus.png;;
+;;;;
+;;;;
 consort;Consort Yu;https://hokbuild.com/wp-content/uploads/2024/12/consort-yu.png;;
+;;;;
+;;;;
 daqiao;Da Qiao;https://hokbuild.com/wp-content/uploads/2024/12/da-qiao.png;;
+;;;;
+;;;;
 daji;Daji;https://hokbuild.com/wp-content/uploads/2024/12/daji.png;;
-dharma;Dharma;https://hokbuild.com/wp-content/uploads/2024/12/dharma.png;;
+;;;;
+;;;;
+dharma;Dharma;https://hokbuild.com/wp-content/uploads/2024/12/dharma.png;Heino;https://hokbuild.com/wp-content/uploads/2024/12/heino.png
+;;;Mi Yue;https://hokbuild.com/wp-content/uploads/2024/12/mi-yue.png
+;;;Yi xing;https://hokbuild.com/wp-content/uploads/2024/12/yixing.png
 di;Di Renjie;https://hokbuild.com/wp-content/uploads/2024/12/di-renjie.png;;
+;;;;
+;;;;
 dian;Dian Wei;https://hokbuild.com/wp-content/uploads/2024/12/dian-wei.png;;
+;;;;
+;i;;;
 diaochan;Diaochan;https://hokbuild.com/wp-content/uploads/2024/12/diaochan.png;;
+;;;;
+;;;;
 dolia;Dolia;https://hokbuild.com/wp-content/uploads/2024/12/dolia.png;;
+;;;;
+;;;;
 donghuang;Donghuang;https://hokbuild.com/wp-content/uploads/2024/12/donghuang.png;;
-drbian;Dr Bian;https://hokbuild.com/wp-content/uploads/2024/12/dr-bian.png;;
-dun;Dun;https://hokbuild.com/wp-content/uploads/2024/12/dun.png;;
+;;;;
+;;;;
+dr bian;Dr Bian;https://hokbuild.com/wp-content/uploads/2024/12/dr-bian.png;;
+;;;;
+;;;;
+dun;Dun;https://hokbuild.com/wp-content/uploads/2024/12/dun.png;Diaochan;https://hokbuild.com/wp-content/uploads/2024/12/diaochan.png
+;;;Erin;https://hokbuild.com/wp-content/uploads/2024/12/erin.png
+;;;Fang;https://hokbuild.com/wp-content/uploads/2024/12/fang.png
 dyadia;Dyadia;https://hokbuild.com/wp-content/uploads/2024/12/dyadia.png;;
+;;;;
+;;;;
 erin;Erin;https://hokbuild.com/wp-content/uploads/2024/12/erin.png;;
+;;;;
+;;;;
 fang;Fang;https://hokbuild.com/wp-content/uploads/2024/12/fang.png;;
+;;;;
+;;;;
 feyd;Feyd;https://hokbuild.com/wp-content/uploads/2025/02/feyd-honor-of-kings.png;;
+;;;;
+;;;;
 fuzi;Fuzi;https://hokbuild.com/wp-content/uploads/2024/12/fuzi.png;;
+;;;;
+;;;;
 ganmo;Gan & Mo;https://hokbuild.com/wp-content/uploads/2024/12/gan-mo.png;;
+;;;;
+;;;;
 gao;Gao;https://hokbuild.com/wp-content/uploads/2024/12/gao.png;;
+;;;;
+;;;;
 garo;Garo;https://hokbuild.com/wp-content/uploads/2024/12/garo.png;;
+;;;;
+;;;;
 guan;Guan Yu;https://hokbuild.com/wp-content/uploads/2024/12/guan-yu.png;;
+;;;;
+;;;;
 guiguzi;Guiguzi;https://hokbuild.com/wp-content/uploads/2024/12/guiguzi.png;;
+;;;;
+;;;;
 hanxin;Han Xin;https://hokbuild.com/wp-content/uploads/2024/12/han-xin.png;;
+;;;;
+;;;;
 heino;Heino;https://hokbuild.com/wp-content/uploads/2024/12/heino.png;;
+;;;;
+;;;;
 hou;Hou Yi;https://hokbuild.com/wp-content/uploads/2024/12/hou-yi.png;;
+;;;;
+;;;;
 huang;Huang Zhong;https://hokbuild.com/wp-content/uploads/2024/12/huang-zhong.png;;
+;;;;
+;;;;
 jing;Jing;https://hokbuild.com/wp-content/uploads/2024/12/jing.png;;
-kaizer;Kaizer;https://hokbuild.com/wp-content/uploads/2024/12/kaizer.png;;
+;;;;
+;;;;
+kaizer;Kaizer;https://hokbuild.com/wp-content/uploads/2024/12/kaizer.png;Da Qiao;https://hokbuild.com/wp-content/uploads/2024/12/da-qiao.png
+;;;Daji;https://hokbuild.com/wp-content/uploads/2024/12/daji.png
+;;;Diaochan;https://hokbuild.com/wp-content/uploads/2024/12/diaochan.png
 kongming;Kongming;https://hokbuild.com/wp-content/uploads/2024/12/kongming.png;;
+;;;;
+;;;;
 kui;Kui;https://hokbuild.com/wp-content/uploads/2024/12/kui.png;;
+;;;;
+;;;;
 lady sun;Lady Sun;https://hokbuild.com/wp-content/uploads/2024/12/lady-sun.png;;
+;;;;
+;;;;
 lady zhen;Lady Zhen;https://hokbuild.com/wp-content/uploads/2024/12/lady-zhen.png;;
+;;;;
+;;;;
 lam;Lam;https://hokbuild.com/wp-content/uploads/2024/12/lam.png;;
+;;;;
+;;;;
 li bai;Li Bai;https://hokbuild.com/wp-content/uploads/2024/12/li-bai.png;;
+;;;;
+;;;;
 li xin;Li Xin;https://hokbuild.com/wp-content/uploads/2024/12/li-xin.png;;
-lian;Lian Po;https://hokbuild.com/wp-content/uploads/2024/12/lian-po.png;;
+;;;;
+;;;;
+lian;Lian Po;https://hokbuild.com/wp-content/uploads/2024/12/lian-po.png;Loong;https://hokbuild.com/wp-content/uploads/2024/12/loong.png
+;;;Luban No. 7;https://hokbuild.com/wp-content/uploads/2024/12/luban-no-7.png
+;;;Marco Polo;https://hokbuild.com/wp-content/uploads/2024/12/marco-polo.png
 liang;Liang;https://hokbuild.com/wp-content/uploads/2024/12/liang.png;;
-liu bang;Liu Bang;https://hokbuild.com/wp-content/uploads/2024/12/liu-bang.png;;
+;;;;
+;;;;
+liu bang;Liu Bang;https://hokbuild.com/wp-content/uploads/2024/12/liu-bang.png;Marco Polo;https://hokbuild.com/wp-content/uploads/2024/12/marco-polo.png
+;;;Meng Ya;https://hokbuild.com/wp-content/uploads/2024/12/meng-ya.png
+;;;Shouyue;https://hokbuild.com/wp-content/uploads/2024/12/shouyue.png
 liu bei;Liu Bei;https://hokbuild.com/wp-content/uploads/2024/12/liu-bei.png;;
+;;;;
+;;;;
 liu shan;Liu Shan;https://hokbuild.com/wp-content/uploads/2024/12/liu-shan.png;;
+;;;;
+;;;;
 loong;Loong;https://hokbuild.com/wp-content/uploads/2024/12/loong.png;;
+;;;;
+;;;;
 lu bu;Lu Bu;https://hokbuild.com/wp-content/uploads/2024/12/lu-bu.png;;
+;;;;
+;;;;
 luara;Luara;https://hokbuild.com/wp-content/uploads/2024/12/luara.png;;
+;;;;
+;;;;
 luban;Luban No. 7;https://hokbuild.com/wp-content/uploads/2024/12/luban-no-7.png;;
+;;;;
+;;;;
 luna;Luna;https://hokbuild.com/wp-content/uploads/2024/12/luna.png;;
+;;;;
+;;;;
 mai;Mai Shiranui;https://hokbuild.com/wp-content/uploads/2024/12/mai-shiranui.png;;
+;;;;
+;;;;
 marco;Marco Polo;https://hokbuild.com/wp-content/uploads/2024/12/marco-polo.png;;
+;;;;
+;;;;
 mayene;Mayene;https://hokbuild.com/wp-content/uploads/2024/12/mayene.png;;
+;;;;
+;;;;
 meng;Meng Ya;https://hokbuild.com/wp-content/uploads/2024/12/meng-ya.png;;
+;;;;
+;;;;
 menki;Menki;https://hokbuild.com/wp-content/uploads/2024/12/menki.png;;
+;;;;
+;;;;
 mi yue;Mi Yue;https://hokbuild.com/wp-content/uploads/2024/12/mi-yue.png;;
+;;;;
+;;;;
 milady;Milady;https://hokbuild.com/wp-content/uploads/2024/12/milady.png;;
+;;;;
+;;;;
 ming;Ming;https://hokbuild.com/wp-content/uploads/2024/12/ming.png;;
+;;;;
+;;;;
 mozi;Mozi;https://hokbuild.com/wp-content/uploads/2024/12/mozi.png;;
+;;;;
+;;;;
 mulan;Mulan;https://hokbuild.com/wp-content/uploads/2024/12/mulan.png;;
+;;;;
+;;;;
 musashi;Musashi;https://hokbuild.com/wp-content/uploads/2024/12/musashi.png;;
+;;;;
+;;;;
 nakoruru;Nakoruru;https://hokbuild.com/wp-content/uploads/2024/12/nakoruru.png;;
+;;;;
+;;;;
 nezha;Nezha;https://hokbuild.com/wp-content/uploads/2024/12/nezha.png;;
+;;;;
+;;;;
 nuwa;Nuwa;https://hokbuild.com/wp-content/uploads/2024/12/nuwa.png;;
+;;;;
+;;;;
 pei;Pei;https://hokbuild.com/wp-content/uploads/2024/12/pei.png;;
+;;;;
+;;;;
 lanling;Prince of Lanling;https://hokbuild.com/wp-content/uploads/2024/12/prince-of-lanling.png;;
+;;;;
+;;;;
 frost;Princess Frost;https://hokbuild.com/wp-content/uploads/2024/12/princess-frost.png;;
+;;;;
+;;;;
 sakeer;Sakeer;https://hokbuild.com/wp-content/uploads/2025/02/sakeer-honor-of-kings.png;;
+;;;;
+;;;;
 shangguan;Shangguan;https://hokbuild.com/wp-content/uploads/2024/12/shangguan.png;;
+;;;;
+;;;;
 shi;Shi;https://hokbuild.com/wp-content/uploads/2024/12/shi.png;;
+;;;;
+;;;;
 shouyue;Shouyue;https://hokbuild.com/wp-content/uploads/2024/12/shouyue.png;;
+;;;;
+;;;;
 sima;Sima Yi;https://hokbuild.com/wp-content/uploads/2024/12/sima-yi.png;;
+;;;;
+;;;;
 sun bin;Sun Bin;https://hokbuild.com/wp-content/uploads/2024/12/sun-bin.png;;
+;;;;
+;;;;
 sun ce;Sun Ce;https://hokbuild.com/wp-content/uploads/2024/12/sun-ce.png;;
+;;;;
+;;;;
 ukyo;Ukyo Tachibana;https://hokbuild.com/wp-content/uploads/2024/12/ukyo-tachibana.png;;
+;;;;
+;;;;
 wukong;Wukong;https://hokbuild.com/wp-content/uploads/2024/12/wukong.png;;
+;;;;
+;;;;
 wuyan;Wuyan;https://hokbuild.com/wp-content/uploads/2024/12/wuyan.png;;
+;;;;
+;;;;
 xiang;Xiang Yu;https://hokbuild.com/wp-content/uploads/2024/12/xiang-yu.png;;
+;;;;
+;;;;
 xiao qiao;Xiao Qiao;https://hokbuild.com/wp-content/uploads/2024/12/xiao-qiao.png;;
+;;;;
+;;;;
 xuance;Xuance;https://hokbuild.com/wp-content/uploads/2024/12/xuance.png;;
+;;;;
+;;;;
 yang jian;Yang Jian;https://hokbuild.com/wp-content/uploads/2024/12/yang-jian.png;;
+;;;;
+;;;;
 yao;Yao;https://hokbuild.com/wp-content/uploads/2024/12/yao.png;;
+;;;;
+;;;;
 yaria;Yaria;https://hokbuild.com/wp-content/uploads/2024/12/yaria.png;;
+;;;;
+;;;;
 ying;Ying;https://hokbuild.com/wp-content/uploads/2024/12/ying.png;;
-yixing;Yixing;https://hokbuild.com/wp-content/uploads/2024/12/yixing.png;;
+;;;;
+;;;;
+yixing;Yi xing;https://hokbuild.com/wp-content/uploads/2024/12/yixing.png;;
+;;;;
+;;;;
 yuhuan;Yuhuan;https://hokbuild.com/wp-content/uploads/2024/12/yuhuan.png;;
+;;;;
+i;;;;
 zhang;Zhang Fei;https://hokbuild.com/wp-content/uploads/2024/12/zhang-fei.png;;
+;;;;
+;;;;
 zhou yu;Zhou Yu;https://hokbuild.com/wp-content/uploads/2024/12/zhou-yu.png;;
+;;;;
+;;;;
 zhuangzi;Zhuangzi;https://hokbuild.com/wp-content/uploads/2024/12/zhuangzi.png;;
+;;;;
+;;;;
 zilong;Zilong;https://hokbuild.com/wp-content/uploads/2024/12/zilong.png;;
+;;;;
+;;;;
 ziya;Ziya;https://hokbuild.com/wp-content/uploads/2024/12/ziya.png;;
